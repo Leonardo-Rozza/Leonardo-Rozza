@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=[github banner]("https://drive.google.com/file/d/18sqBCZkT2tJ_I4xRLvzdIhf44ESqbwc9/view?usp=sharing" alt="GitHub Banner" width="100%") />
+  <img src="./asset/banner-github.png" />
 </p>
 
 <h1 align="center">👋 Hola, soy Leonardo Rozza</h1>
@@ -26,7 +26,7 @@
 
 ---
 
-## Sobre mí 😎
+## Sobre mí
 
 Desarrollador backend con experiencia en Java y Spring Boot, especializado en la creación de APIs REST y microservicios escalables.  
 Con conocimientos en JWT, bases de datos SQL (PostgreSQL, MySQL), Docker, y pasión por aprender nuevas tecnologías.
@@ -43,24 +43,7 @@ Con conocimientos en JWT, bases de datos SQL (PostgreSQL, MySQL), Docker, y pasi
 
 ## 🚀 Proyectos destacados
 
-| Proyecto                                | ¿Qué hice?                                                                                               | Enlace                                         |
-|-----------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| **API de Gestión de Usuarios**          | REST API en Java + Spring Boot con autenticación JWT, control de roles y despliegue en Docker.           | 🔗 [Repo](https://github.com/Leonardo-Rozza/user-management-api) |
-| **Quinta La Ponderosa**                 | Sitio web responsivo creado con Astro, HTML, CSS y deployment en Vercel.                                  | 🔗 [Live](https://portfolio-iota-two-83.vercel.app/)            |
-| **(Tu próximo proyecto aquí)**          | Breve descripción de la funcionalidad principal y tecnologías usadas.                                    | 🔗 [Repo/Live](/)                              |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Rozza&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-Rozza&theme=radical&row=1&column=7&no-bg=true" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <em>“El único modo de hacer un gran trabajo es amar lo que haces.” – Steve Jobs</em>
-</p>
+| Proyecto                       | ¿Qué hice?                                                               | Enlace                                                               |
+| ------------------------------ | ------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| **API de Gestión de Usuarios** | REST API en Node + Express con autenticación JWT, control de roles.      | 🔗 [Repo](https://github.com/Leonardo-Rozza/API-REST-authentication) |
+| **Quinta La Ponderosa**        | Sitio web responsivo creado con Astro, HTML, CSS y deployment en Vercel. | 🔗 [Live](https://leonardo-rozza.github.io/La-Ponderosa/)            |
