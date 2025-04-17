@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./asset/banner-github.png" />
+  <img src="./asset/banner.png"  alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy Leonardo Rozza</h1>
@@ -43,7 +43,7 @@ Con conocimientos en JWT, bases de datos SQL (PostgreSQL, MySQL), Docker, y pasi
 
 ## 🚀 Proyectos destacados
 
-| Proyecto                       | ¿Qué hice?                                                               | Enlace                                                               |
-| ------------------------------ | ------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| **API de Gestión de Usuarios** | REST API en Node + Express con autenticación JWT, control de roles.      | 🔗 [Repo](https://github.com/Leonardo-Rozza/API-REST-authentication) |
-| **Quinta La Ponderosa**        | Sitio web responsivo creado con Astro, HTML, CSS y deployment en Vercel. | 🔗 [Live](https://leonardo-rozza.github.io/La-Ponderosa/)            |
+| Proyecto                       | ¿Qué hice?                                                          | Enlace                                                               |
+| ------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **API de Gestión de Usuarios** | REST API en Node + Express con autenticación JWT, control de roles. | 🔗 [Repo](https://github.com/Leonardo-Rozza/API-REST-authentication) |
+| **Quinta La Ponderosa**        | Sitio web responsivo creado con Astro, HTML, CSS.                   | 🔗 [Live](https://leonardo-rozza.github.io/La-Ponderosa/)            |
