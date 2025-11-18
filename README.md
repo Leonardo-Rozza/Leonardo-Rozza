@@ -45,5 +45,6 @@ Con conocimientos en JWT, bases de datos SQL (PostgreSQL, MySQL), Docker, y pasi
 
 | Proyecto                       | ¿Qué hice?                                                          | Enlace                                                               |
 | ------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Conexia**                    | Backend completo de una Api-Rest para web de insercion Laboral      | 🔗 [Repo](https://github.com/Leonardo-Rozza/conexia-backend)         |
 | **API de Gestión de Usuarios** | REST API en Node + Express con autenticación JWT, control de roles. | 🔗 [Repo](https://github.com/Leonardo-Rozza/API-REST-authentication) |
 | **Quinta La Ponderosa**        | Sitio web responsivo creado con Astro, HTML, CSS.                   | 🔗 [Live](https://leonardo-rozza.github.io/La-Ponderosa/)            |
